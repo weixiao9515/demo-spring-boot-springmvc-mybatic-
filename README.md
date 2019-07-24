@@ -1,2 +1,3 @@
 # ssm框架
-##查所有
+springboot+springmvc+mybatis
+## 查所有
